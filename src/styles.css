@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+.mainContainer{
+    padding: 35px;
+    font-family: sans-serif;
+    font: 400;
+    font-weight: 500;
+}
+.favicon{
+    height: 32px;
+    width: 32px;
+}
